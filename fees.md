@@ -6,7 +6,7 @@ Like all protocols, Gotchi Vault charges what we think are reasonable fees to in
 
 _**Withdrawing GHST —**_ A 0.5% fee will be charged on all withdrawals of GHST from the protocol.
 
-_**ERC721 —**_ a 10 GHST deposit will be required on the initial deposit of any Aavegotchi. You can batch deposit up to 10 Aavegotchis at once, and still pay a 10 GHST fee. This is a one-time fee, and you will still be able to temporarily pull your gotchi out of the vault to play minigames. Any withdrawal of your Aavegotchis is free, and you will not be charged any additional fees if you re-deposit within 24 hours of withdrawals.
+_**ERC721 —**_ a 1 GHST deposit fee per Aavegotchi will be required on the initial deposit of any Aavegotchi.  This is a one-time fee, and you will still be able to temporarily pull your gotchi out of the vault to play minigames. Any withdrawal of your Aavegotchis is free, and you will not be charged any additional fees if you re-deposit within 24 hours of withdrawals.
 
 _**Rental Splits —**_ final details of rental splits for Aavegotchi lending are still being finalized.
 
