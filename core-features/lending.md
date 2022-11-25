@@ -4,7 +4,7 @@ One of the features we think provides the most value to depositors is our abilit
 
 We have integrated the Aavegotchi lending contracts into the Gotchi Vault contracts, which allows us to list all of the aavegotchis in the vault on the lending market at aavegotchi.com.  Unless users opt out of this process by "pausing" their rental, we will be using bots to constantly monitor the gotchis in the Vault to determine whether they need to be listed, whether the listing needs to be modified or cancelled, and whether a rental has concluded and needs to be ended and re-listed.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 _**Pausing**_
 
@@ -20,4 +20,16 @@ As lending in the Gotchiverse is brand new, we will monitor closely the market d
 
 _**Custom settings**_
 
-In the coming days and weeks, we'll be adding more features to the user interface, allowing you to take more control over how your gotchis are lended out!
+![](<../.gitbook/assets/image (3).png>)
+
+You can also choose your own settings for how your gotchi is rented out.  Modifying your gotchis rental settings will charge you a fee of 0.05 GHST per gotchi to cover gas costs.  Additionally, we will charge a 15% fee of the alchemica for gotchis that are rented through the Vault -- 5% fee to the Vault, and a 10% fee for the land owner who owns the parcel the gotchi channels on.
+
+_**"Non-custodial" Lending Management**_
+
+_****_![](../.gitbook/assets/image.png)_****_
+
+We know that depositing assets into a smart contract isn't for everyone.  Now, taking advance of the non-custodial "lending operator" function in Aavegotchi's smart contracts, you can manage automated lending of your gotchis without giving up custody, or the ability to transfer your assets.  First, approve the Vault's bot as a designated operator, and then modify the settings you want:
+
+![](<../.gitbook/assets/image (2).png>)
+
+With this option, renters won't be able to channel on the Vault's parcels, so we don't take the additional 10% of the alchemica; only a 5% fee will be deducted to cover gas costs.

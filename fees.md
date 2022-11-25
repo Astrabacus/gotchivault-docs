@@ -6,13 +6,13 @@ Like all protocols, Gotchi Vault charges what we think are reasonable fees to in
 
 _**Withdrawing GHST —**_ A 0.5% fee will be charged on all withdrawals of GHST from the protocol.
 
-_**ERC721 —**_ a 1 GHST deposit fee per Aavegotchi will be required on the initial deposit of any Aavegotchi.  This is a one-time fee, and you will still be able to temporarily pull your gotchi out of the vault to play minigames. Any withdrawal of your Aavegotchis is free, and you will not be charged any additional fees if you re-deposit within 24 hours of withdrawals.
+_**ERC721 —**_ there are currently no fees to deposit or withdraw your gotchis or parcels.
 
-_**Rental Splits —**_ final details of rental splits for Aavegotchi lending are still being finalized.
+_**Rental Splits —**_ to cover gas fees and operating costs, 5% of all alchemica received from rentals will go to the Vault
 
 ### Fee Distribution <a href="#_v7yicm5zmko9" id="_v7yicm5zmko9"></a>
 
-50% of ALL fees will be sent back to the vGHST contract itself; this means that vGHST holders earn half of all fees. So when an Aavegotchi owner pays their 10 GHST deposit fee? Yup, the vGHST holders collectively just earned 5 GHST.
+50% of ALL fees will be sent back to the vGHST contract itself; this means that vGHST holders earn half of all fees.&#x20;
 
 25% of fees go to the contract managers. During the initial 6 months of the protocol, this will be the Vault Managers described above (a multi-sig of 6 community members). Once control of the protocol is turned over to the DAO, VLT holders can reexamine how these fees are allocated
 
